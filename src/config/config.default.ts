@@ -4,6 +4,6 @@ export default {
   // use for cookie sign key, should change to your own and keep security
   keys: '1720767796435_3261',
   koa: {
-    port: 7001,
+    port: 7002,
   },
 } as MidwayConfig;
